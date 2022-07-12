@@ -1,0 +1,25 @@
+body {
+    background-color: dodgerblue;
+    font-family: 'Dosis', sans-serif;
+}
+.div_header {
+    background-color: orange;
+    color: white;
+    
+}
+.div_header p {
+    letter-spacing: 2px;
+    font-size: 16px;
+}
+button {
+    margin-top: 20px;
+}
+.copyright_footer {
+    background-color: white;
+    bottom: 0px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    font-size: 18px;
+}
